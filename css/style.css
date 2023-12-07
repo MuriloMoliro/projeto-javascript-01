@@ -1,0 +1,27 @@
+
+.titulo{
+    font-family: 'Times New Roman';
+    color: black;
+    font-size: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    
+}  
+
+
+.btn{
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    background-color: rgb(55, 52, 52);
+    padding: 15px 100px;
+}  
